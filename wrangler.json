@@ -4,6 +4,7 @@
   "name": "dawn-mountain-85e4",
   "migrations": [
     {
+      "new_classes": ["Globe"],
       "tag": "v1",
       "new_sqlite_classes": ["MyDurableObject"]
     }
